@@ -5,4 +5,4 @@ For my sophomore year Black History Month Project, we were tasked with choosing 
 Download all the contents of this repository, then open Black History Project (George Washington Carver).sln. This will show all the different forms and codes for each form in the project. Click on any form, then hit run. 
 
 # Screenshot of a form
-![](screenshot.png)
+![](screenshot.PNG)
