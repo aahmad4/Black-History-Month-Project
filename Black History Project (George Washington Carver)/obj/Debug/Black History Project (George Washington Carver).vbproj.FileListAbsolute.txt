@@ -1,0 +1,30 @@
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Black History Project (George Washington Carver).exe.config
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Black History Project (George Washington Carver).exe
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Black History Project (George Washington Carver).pdb
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Black History Project (George Washington Carver).xml
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form1.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Resources.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).exe
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).xml
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).pdb
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form2.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form3.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form4.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form5.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form6.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form7.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form8.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).vbproj.ResolveComReference.cache
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form10.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black_History_Project__George_Washington_Carver_.Form9.resources
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Black History Project (George Washington Carver).exe.manifest
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\bin\Debug\Black History Project (George Washington Carver).application
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).exe.manifest
+C:\Users\STEM\source\repos\Black History Project (George Washington Carver)\Black History Project (George Washington Carver)\obj\Debug\Black History Project (George Washington Carver).application
