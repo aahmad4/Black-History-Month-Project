@@ -4,7 +4,7 @@
 For my sophomore year Black History Month Project, we were tasked with choosing an African American figure from the past and make a program dedicated towards giving information about him. I chose George Washington Carver and made a flipbook about him with Visual Basic.
 </p>
 
-## Screenshot of a form
+## Screenshot of A Form
 ![](screenshot.PNG)
 
 ## Setup
